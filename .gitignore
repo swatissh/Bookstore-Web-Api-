@@ -1,5 +1,4 @@
-.vs/Bookstore.WebApi
-
-bin/
-obj/
+.vs/
+Bookstore.WebApi/bin/
+Bookstore.WebApi/obj/
 
